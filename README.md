@@ -39,22 +39,29 @@
 ![image-13.png](image-13.png)
 
 10. Ini adalah tampilan halaman masuk
+
 ![image-14.png](image-14.png)
 
 11. Ini adalah tampilan halaman beranda atau setalah halaman masuk
+
 ![image-15.png](image-15.png)
 
 12. Ini adalah contoh mendaftarkan memasukkan alamat email tidak sesuai
+
 ![image-16.png](image-16.png)
 
 13. Ini adalah contoh mendaftarkan memasukkan password tidak sesuai
+
 ![image-17.png](image-17.png)
 
 14. Ini adalah contoh mendaftarkan akun berhasil dengan baik
+
 ![image-18.png](image-18.png)
 
 15. Terakhir kita masukkan alamat email dan password yang sudah kita buat
+
 ![image-19.png](image-19.png)
 
 16. Dan ketika kita sudah berhasil masuk, halaman akan masuk ke halaman beranda
+
 ![image-20.png](image-20.png)
