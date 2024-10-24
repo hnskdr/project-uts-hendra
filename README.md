@@ -12,6 +12,7 @@
 ![image-3.png](image-3.png)
 
 5. Membuat folder pages, kemudian membuat file "register_page.dart", "login_page.dart", dan "home_page.dart" di dalam folder pages
+
 ![image-4.png](image-4.png)
 
 6. Isi sintaks atau kode register_page.dart seperti berikut
